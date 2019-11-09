@@ -11,8 +11,8 @@
 <body>
 	<div class="container jumbotron jumbotron-dark">
 		<div class="container" align="center">
-			<h2>Name : Muhammad Ammar<br>
-			Registration : FA17-BSE-055</h2>
+			<h2>Name : Ammar Ahmed<br>
+			Registration : FA17-BSE-053</h2>
 		</div>
 	</div>
 
