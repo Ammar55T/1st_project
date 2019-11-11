@@ -27,3 +27,7 @@ Route::get('/myinfo', function () {
 Route::get('/task', function () {
     return view('task');
 });
+
+Route::get('/grid', function () {
+    return view('Grid taskp prac');
+});
